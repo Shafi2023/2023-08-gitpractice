@@ -6,4 +6,7 @@ public class helloWorld {
 		System.out.println("hello world");
 	}
 
+	public void emptyMethod() {
+		
+	}
 }
